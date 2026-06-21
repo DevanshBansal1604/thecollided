@@ -335,6 +335,13 @@
     align-items: center; /* Center-aligns the logo and text on smaller screens */
   }
 
+  .textSection {
+    transform: scale(0.6);
+    transform-origin: top center;
+    margin-top: 2rem;
+    width: fit-content;
+  }
+
   .myntraTitle {
     font-size: 1.8rem;
   }
